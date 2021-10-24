@@ -1,4 +1,4 @@
 # Java---Eshop-
-Console application with DB connection, 
-adding products to the cart, 
-list of products and payment
+Console application, content mySql DataBase with products,
+adding and dropping products to the cart and Calculate sum of all product in the cart, 
+cleaning cart and payment
